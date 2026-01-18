@@ -90,7 +90,6 @@ This design prevents duplicate conditions per study and follows database normali
 
 The following are still under development:
 
-- Additional normalized tables (interventions, locations, outcomes)
 - Robust data validation checks
 - Indexing and query optimization
 - Analytical SQL queries and visualizations
@@ -134,6 +133,7 @@ This project is designed to demonstrate:
 - Build Tableau / Power BI dashboards
 - Add unit tests for data validation
 - Create reproducible pipeline scripts
+- integrate ML model to predict study duration 
 
 ---
 
